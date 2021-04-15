@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot de la página landing 1`] = `
+<div>
+  desktop
+</div>
+`;

@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Iniciar proyecto
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+para iniciar el proyecto debe ejecutar desde consola el comando
+
+### `npm install`
+
+A continuación ejecute la aplicación en modo desarrollo en (http://localhost:3000).
+
+### `npm start`
 
 ## Available Scripts
 
